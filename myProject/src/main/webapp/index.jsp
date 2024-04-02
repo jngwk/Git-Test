@@ -8,5 +8,6 @@
 </head>
 <body>
 <h1>Hello World</h1>
+<footer>This is footer</footer>
 </body>
 </html>
