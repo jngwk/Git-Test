@@ -20,7 +20,8 @@
 1234
 
   merge conflict resolve
-  Á¤¿í -----------------
+  �짚쩔챠 -----------------
 
+testing protection rule
 </body>
 </html>
